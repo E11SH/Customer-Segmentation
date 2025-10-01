@@ -1,4 +1,4 @@
-# 🛍️ Mall Customer Segmentation Analysis
+# 🛍️ Customer Segmentation Analysis
 
 This project performs an in-depth customer segmentation using unsupervised machine learning on the "Mall Customers" dataset. It leverages the K-Means algorithm to group customers into distinct, actionable segments based on their annual income and spending habits, providing a clear roadmap for targeted marketing strategies.
 
